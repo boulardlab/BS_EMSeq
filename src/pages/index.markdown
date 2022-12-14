@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title:  ""
+list_title:  Results
 ---
 
 This is an immunology-epigenetics project between the [Boulard lab](https://www.embl.org/groups/boulard/) at EMBL Rome and the Storck lab at Institut Necker Enfants-Malades in Paris.
