@@ -21,3 +21,5 @@ Methylation of Transposable Elements (TE) is specifically analysed in [TE Analys
 The correlation between methylation loss and expression of single copy genes is in [Meth Expr Corr](https://boulardlab.github.io/BS_EMSeq/2022/12/07/meth-expr-corr.html)
 
 **Repository of the project with source code** is [here](https://github.com/boulardlab/BS_EMSeq).
+
+For the same project, the analysis of Transposable Elements expression from RNASeq data is [here](https://boulardlab.github.io/BS_RNASeq/2020/11/11/TE-DE-analysis.html) and the source code [here](https://github.com/boulardlab/BS_RNASeq).
