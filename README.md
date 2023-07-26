@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/577849539.svg)](https://zenodo.org/badge/latestdoi/577849539)
+
 # Analysis of EMSeq data for project Boulard - Stork
 
 * Until count of methylation on tiles, promoters and CpG Islands, analysis is performed using snakemake pipeline in snake-make/Snakefile.
